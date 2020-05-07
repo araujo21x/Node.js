@@ -1,7 +1,7 @@
 # Node.js
-Meus estudos sobre Node.js
+Meus estudos sobre Node.js.
 
-## Projetos
+### Projetos
 
-### ExpressJS:
+#### ExpressJS:
   * [ApiConta](https://github.com/araujo21x/ApiContas).
