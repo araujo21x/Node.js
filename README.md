@@ -42,6 +42,14 @@ _____
       * Express;
       * PostgreSQL;
       * Cloudinary (Foi usado como serviço de armazenamento de imagens).
+<br>
+   
+  * [API jogo Arena Deadlock](https://github.com/araujo21x/Back_Arena_Deadlock):
+    * Descrição: Essa API foi parte de um projeto de um dos meus estágios. Um jogo de tabuleiro online que precisa de 4 jogadores, ele é baseado em um jogo físico construído por mim, um amigo e um professor para ensinar o conceito de deadlock um conteúdo de sistemas operacionais.
+    * Principais tecnologias:
+      * API REST;
+      * Express;
+      * Socket.io.
 
 _____
 ### Projetos Privados:
