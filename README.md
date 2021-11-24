@@ -7,33 +7,41 @@ Olá! Listo abaixo meus projetos desenvolvidos com JavaScript no back-end, usand
 _____
 ### Projetos Públicos:
   * [API Conta](https://github.com/araujo21x/ApiContas):
-    * API REST;
-    * Express;
-    * PostgreSQL;
-    * Sequelize.
+    * Descrição: API para um projeto de serviço de divisão de gasto, que funciona da seguinte maneira: você se cadastra; cria um grupo; adiciona pessoas; adiciona gastos a esse grupo e cada gasto você informa como ele sera divido com os membros do grupo.
+    * Principais tecnologias:
+      * API REST;
+      * Express;
+      * PostgreSQL;
+      * Sequelize.
  <br>
  
   * [API Blog Pessoal](https://github.com/araujo21x/API_Blog_Pessoal):
-    * API REST;
-    * Express;
-    * MongoDB;
-    * AWS S2(Foi usado como serviço de armazenamento de imagens).
+    * Descrição: API para um projeto de Blog/portfólio pessoal, que funcione para demonstrar meus projetos e um dos meus primeiros projetos com Node.js.
+    * Principais tecnologias:
+      * API REST;
+      * Express;
+      * MongoDB;
+      * AWS S2(Foi usado como serviço de armazenamento de imagens).
  <br>
  
   * [API do Drag and Drop de manutenção de computadores](https://github.com/araujo21x/API_SM_dragAndDrop):
-    * API REST;
-    * TypeScript;
-    * Express;
-    * MySQL;
-    * EJS (Utilizei para criar um modelo de formulario, gerado pelo sistema).
+    * Descrição: API para um software que é simulador de montagem e manutenção de computadores. Meu TCC.
+    * Principais tecnologias:
+      * API REST;
+      * TypeScript;
+      * Express;
+      * MySQL;
+      * EJS (Utilizei para criar um modelo de formulario, gerado pelo sistema).
   <br>
   
   * [API Sistema de adoção de animais](https://github.com/araujo21x/API_adocao_animais):
-    * API REST;
-    * TypeScript;
-    * Express;
-    * PostgreSQL;
-    * Cloudinary (Foi usado como serviço de armazenamento de imagens).
+    * Descrição: Essa API foi parte do projeto final de uma disciplina da faculdade. Esse sistema seria para ONGs e pessoas normais cadastrarem animais para adoção. Alem do cadastro de animais desaparecidos.
+    * Principais tecnologias:
+      * API REST;
+      * TypeScript;
+      * Express;
+      * PostgreSQL;
+      * Cloudinary (Foi usado como serviço de armazenamento de imagens).
 
 _____
 ### Projetos Privados:
