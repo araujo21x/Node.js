@@ -11,17 +11,23 @@ _____
     * Express;
     * PostgreSQL;
     * Sequelize.
+ <br>
+ 
   * [API Blog Pessoal](https://github.com/araujo21x/API_Blog_Pessoal):
     * API REST;
     * Express;
     * MongoDB;
     * AWS S2(Foi usado como serviço de armazenamento de imagens).
+ <br>
+ 
   * [API do Drag and Drop de manutenção de computadores](https://github.com/araujo21x/API_SM_dragAndDrop):
     * API REST;
     * TypeScript;
     * Express;
     * MySQL;
     * EJS (Utilizei para criar um modelo de formulario, gerado pelo sistema).
+  <br>
+  
   * [API Sistema de adoção de animais](https://github.com/araujo21x/API_adocao_animais):
     * API REST;
     * TypeScript;
@@ -31,8 +37,10 @@ _____
 
 _____
 ### Projetos Privados:
+ <br>
+ 
  * Nutri1000:
-    * Descrição: Construir a API do projeto. O projeto é auxiliar gravidas durante a gestação atraves de um aplicativo mobile.
+    * Descrição: O projeto é uma parceria entre o curso de licenciatura em ciências da computação do IFBaiano - Campus Senhor do Bonfim e o curso de nutrição da UFBA - Campus Salvador. O sistema desenvolvido é uma aplicação mobile com intuido de auxiliar e armazenar dados da gestação. Fiquei responsavel pela parte da API e ela foi construida usando as tecnologias apresentadas no proximo tópico.
     * Principais tecnologias:
       * TypeScript;
       * Express;
