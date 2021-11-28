@@ -24,7 +24,7 @@ _____
       * AWS S2(Foi usado como serviço de armazenamento de imagens).
  <br>
  
-  * [API do Drag and Drop de manutenção de computadores](https://github.com/araujo21x/API_SM_dragAndDrop):
+  * [API SM Computadores](https://github.com/araujo21x/API_SM_Computadores):
     * Descrição: API para um software que é simulador de montagem e manutenção de computadores. Meu TCC.
     * Principais tecnologias:
       * API REST;
