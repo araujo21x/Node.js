@@ -51,6 +51,16 @@ _____
       * Express;
       * Socket.io.
 
+  * [API Chat com socket.io](https://github.com/araujo21x/chat_back-)):
+    * Descrição: API para um projeto de chat com socket.io e expressJs.
+    * Principais tecnologias:
+      * API REST;
+      * TypeScript
+      * Express;
+      * MySQL;
+      * Socket.io;
+      * AWS S2(Foi usado como serviço de armazenamento de imagens).
+ <br>
 _____
 ### Projetos Privados:
  <br>
