@@ -51,7 +51,7 @@ _____
       * Express;
       * Socket.io.
 
-  * [API Chat com socket.io](https://github.com/araujo21x/chat_back-)):
+  * [API Chat com socket.io](https://github.com/araujo21x/chat_back-):
     * Descrição: API para um projeto de chat com socket.io e expressJs.
     * Principais tecnologias:
       * API REST;
